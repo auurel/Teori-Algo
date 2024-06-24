@@ -1,3 +1,7 @@
+# <h1 align="center">Rekursif</h1>
+<p align="center">Indy Aurellia Az Zahra</p>
+<p align="center">2311110020</p>
+
 Rekursif adalah fungsi yang memanggil dirinya sendiri secara langsung ataupun tidak. Tujuan rekursif adalah untuk melakukan pengulangan, atau looping seperti for dan while, namun dengan cara yang berbeda [1]. 
 
 #### Konsep Dasar Rekursif
