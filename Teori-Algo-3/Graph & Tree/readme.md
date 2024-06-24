@@ -1,3 +1,7 @@
+# <h1 align="center">Graph and Tree</h1>
+<p align="center">Indy Aurellia Az Zahra</p>
+<p align="center">2311110020</p>
+
 ### Graph
 Graf adalah struktur data yang merupakan kombinasi dari simpul (node) dan sisi (edge). Simpul (vertex) menyimpan entitas, sementara sisi adalah koneksi antara dua simpul [1]. 
 
