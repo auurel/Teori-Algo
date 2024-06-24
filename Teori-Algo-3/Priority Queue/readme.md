@@ -1,4 +1,4 @@
-# <h1 align="center">Hash Tabel</h1>
+# <h1 align="center">Priority Queue</h1>
 <p align="center">Indy Aurellia Az Zahra</p>
 <p align="center">2311110020</p>
 
